@@ -1,0 +1,15 @@
+{
+    "authenticators": [
+    ],
+    "policies": [
+    ],
+    "mappers": [
+        {
+            "name": "keycloak-mattermost-mapper",
+            "fileName": "keycloak-mattermost-mapper.js",
+            "description": "Javacript mapper to plug Mattermost on Keycloak using the Gitlab module"
+        }
+    ]
+}
+
+
