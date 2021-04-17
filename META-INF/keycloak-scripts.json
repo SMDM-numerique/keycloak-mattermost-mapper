@@ -1,8 +1,4 @@
 {
-    "authenticators": [
-    ],
-    "policies": [
-    ],
     "mappers": [
         {
             "name": "keycloak-mattermost-mapper",
